@@ -32,7 +32,7 @@ Declaration(Class(<http://purl.obolibrary.org/obo/CATO_00000000>))
 
 # Class: <http://purl.obolibrary.org/obo/CATO_00000000>
 
-AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/CATO_00000000> "root node"@en)
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/CATO_00000000> "root"@en)
 
 
 )
